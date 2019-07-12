@@ -1,0 +1,1 @@
+RUN docker run -p 80:80 -e THUMBOR_NUM_PROCESSES=8
