@@ -1,3 +1,4 @@
 build:
   docker:
-    web: thumbor/Dockerfile
+    web: nginx-proxy/Dockerfile
+    image: thumbor/Dockerfile
